@@ -20,7 +20,7 @@ export const educationData: EducationItem[] = [
     type: "course",
     title: "Fullstack Developer Course",
     institution: "GoIT",
-    period: "2023 — Present",
+    period: "2026 — Present",
     badge: "In Progress",
     description:
       "Intensive training covering modern JavaScript, React ecosystem, Node.js, and team project workflows.",
