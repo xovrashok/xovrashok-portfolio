@@ -23,7 +23,7 @@ export const projectsData: Project[] = [
       "Chrome Extension API (Manifest V3)",
     ],
     githubUrl: "https://github.com/xovrashok/job-tracker-extension",
-    image: "/projects",
+    image: "/projects/job-tracker-extension.png",
     featured: true,
   },
   {
