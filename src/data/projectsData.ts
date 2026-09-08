@@ -12,6 +12,21 @@ export const projectsData: Project[] = [
     featured: true,
   },
   {
+    id: "job-tracker-extension",
+    title: "Job Application Tracker (Chrome Extension)",
+    description:
+      "A browser extension for automatically collecting and tracking job openings from Djinni and Work.ua. It includes dynamic content script injection, local data storage, status filtering, and real-time text search.",
+    tags: [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Chrome Extension API (Manifest V3)",
+    ],
+    githubUrl: "https://github.com/xovrashok/job-tracker-extension",
+    image: "/projects",
+    featured: true,
+  },
+  {
     id: "image-search",
     title: "PixelFind — Image Search App",
     description:
