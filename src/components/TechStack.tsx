@@ -5,6 +5,7 @@ import {
   Wrench,
   ShieldCheck,
   Cpu,
+  Puzzle,
 } from "lucide-react";
 
 export const TechStack = () => {
@@ -18,6 +19,16 @@ export const TechStack = () => {
         "JavaScript (ES6+)",
         "HTML5 / SCSS",
         "WordPress",
+      ],
+    },
+    {
+      title: "Browser Extensions & Automation",
+      icon: Puzzle,
+      skills: [
+        "Chrome Extensions (MV3)",
+        "Content Scripts",
+        "chrome.storage API",
+        "DOM Parsing & Automation",
       ],
     },
     {
@@ -43,7 +54,13 @@ export const TechStack = () => {
     {
       title: "DevOps, PM & AI Tools",
       icon: Cpu,
-      skills: ["Trello", "Page Speed Optimization", "ChatGPT", "Claude"],
+      skills: [
+        "Google Gemini API",
+        "Prompt Engineering",
+        "ChatGPT / Claude",
+        "Page Speed Optimization",
+        "Trello",
+      ],
     },
   ];
 

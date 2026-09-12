@@ -12,6 +12,22 @@ export const projectsData: Project[] = [
     featured: true,
   },
   {
+    id: "ai-cover-letter-assistant",
+    title: "AI Cover Letter Assistant",
+    description:
+      "A Manifest V3 Chrome Extension that automates job application responses on Djinni and Work.ua. It parses vacancy details directly from the page DOM and generates personalized cover letters using the Google Gemini API.",
+    tags: [
+      "React 18",
+      "TypeScript",
+      "Chrome Extension (MV3)",
+      "Gemini API",
+      "Tailwind CSS",
+    ],
+    githubUrl: "https://github.com/xovrashok/ai-cover-letter-assistant",
+    image: "/projects/ai-cover-letter-assistant.png",
+    featured: true,
+  },
+  {
     id: "job-tracker-extension",
     title: "Job Application Tracker (Chrome Extension)",
     description:
